@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T15:22:08.250Z" agent="5.0 (X11)" etag="7-zRxkcRcXcP7MP8fyaR" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T19:25:17.490Z" agent="5.0 (X11)" etag="WMbLkpVSk2Bbx_DTrdsP" version="17.4.5" type="github">
   <diagram id="OBZtyHnViLdlWVSSPKuK" name="Montagem/Variantes">
     <mxGraphModel dx="981" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -161,6 +161,39 @@
               <mxPoint x="510" y="120" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="764.1600000000001" y="339" as="sourcePoint" />
+            <mxPoint x="765" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Métricas&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="740.5" y="390" width="48" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444.6600000000001" y="339" as="sourcePoint" />
+            <mxPoint x="445.5" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Variantes&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="421" y="390" width="48" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-14" value="Nextclade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="259.75" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-15" value="Pangolin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="289.75" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=0;size=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250.25" width="10" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-17" value="&lt;i&gt;Variantes&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="135" y="220.25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=0;size=0.5;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250.25" width="20" height="69.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
