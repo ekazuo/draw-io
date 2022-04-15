@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T19:25:48.215Z" agent="5.0 (X11)" etag="bl0X3ydKOfg-kv27_14d" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T19:37:11.856Z" agent="5.0 (X11)" etag="MZEfnKl5aKItW2YsOE1v" version="17.4.5" type="github">
   <diagram id="OBZtyHnViLdlWVSSPKuK" name="Montagem/Variantes">
-    <mxGraphModel dx="981" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,7 +177,7 @@
             <mxPoint x="445.5" y="379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M1nKnjCBCFIrTovYQVTO-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Variantes&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;SNP&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="421" y="390" width="48" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M1nKnjCBCFIrTovYQVTO-14" value="Nextclade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -194,6 +194,36 @@
         </mxCell>
         <mxCell id="M1nKnjCBCFIrTovYQVTO-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=0;size=0.5;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="240" y="250.25" width="20" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-19" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;Metadados&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="triangle;whiteSpace=wrap;html=1;rounded=1;shadow=0;fontSize=12;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="49.99000000000001" y="16" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="184.5800000000001" y="340" as="sourcePoint" />
+            <mxPoint x="185.42000000000002" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-22" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Linhagens&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="161" y="390" width="48" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-23" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="89.58000000000015" y="185.62" as="sourcePoint" />
+            <mxPoint x="150" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224.16" y="430" as="sourcePoint" />
+            <mxPoint x="280" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-25" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Relatório&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="296" y="390" width="48" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
