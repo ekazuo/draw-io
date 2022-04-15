@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T19:25:17.490Z" agent="5.0 (X11)" etag="WMbLkpVSk2Bbx_DTrdsP" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-15T19:25:48.215Z" agent="5.0 (X11)" etag="bl0X3ydKOfg-kv27_14d" version="17.4.5" type="github">
   <diagram id="OBZtyHnViLdlWVSSPKuK" name="Montagem/Variantes">
     <mxGraphModel dx="981" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
         <mxCell id="M1nKnjCBCFIrTovYQVTO-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=0;size=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="250.25" width="10" height="69.5" as="geometry" />
         </mxCell>
-        <mxCell id="M1nKnjCBCFIrTovYQVTO-17" value="&lt;i&gt;Variantes&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="M1nKnjCBCFIrTovYQVTO-17" value="&lt;i&gt;Linhagens&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="135" y="220.25" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M1nKnjCBCFIrTovYQVTO-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=0;size=0.5;rotation=-180;" vertex="1" parent="1">
